@@ -76,7 +76,7 @@
 		"cross-env": "7.0.3",
 		"css-loader": "5.0.1",
 		"del-cli": "3.0.1",
-		"delay": "4.4.0",
+		"delay": "4.4.1",
 		"downshift": "6.0.10",
 		"file-loader": "6.2.0",
 		"globby": "11.0.1",
